@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Check if component renders correctly 1`] = `
+<div>
+  <div>
+    <h1>
+      Second test
+    </h1>
+  </div>
+</div>
+`;
+
+exports[`take a screenshot of the second test component 1`] = `
+<div>
+  <div>
+    <h1>
+      Second test
+    </h1>
+  </div>
+</div>
+`;
+
+exports[`take a screenshot of the second test component 2`] = `
+<div>
+  <div>
+    <h1>
+      Second test
+    </h1>
+  </div>
+</div>
+`;
